@@ -10,6 +10,12 @@ NestJS + PostgreSQL로 만들었고, **Render**에 올리도록 준비했어요.
 > Render 무료 서버는 한동안 아무도 쓰지 않으면 잠들어요. 잠든 뒤 처음 접속하면 깨어나는 데 **1분 가까이** 걸릴 수 있어요.
 > 화면이 멈춘 것처럼 보여도 잠깐 기다린 뒤 새로고침하면 정상으로 열려요.
 
+## 배포 주소
+
+- 서버: https://dog-shop-level1-backend.onrender.com
+- 상태 확인: https://dog-shop-level1-backend.onrender.com/health
+- 화면(프론트): https://dog-shop-level1-frontend.vercel.app
+
 ## 확인 주소
 
 | 주소 | 내용 |
